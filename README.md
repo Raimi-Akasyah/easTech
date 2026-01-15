@@ -1,4 +1,5 @@
-#An integrated Digital Residential Management System designed to simplify property administration, resident services, and staff workflows.
+#easTech
+An integrated Digital Residential Management System designed to simplify property administration, resident services, and staff workflows.
 
 ## 🚀 About the Project
 **easTech** is a Java-based web application that centralizes all aspects of residential living. From facility booking to complaint management, it provides a seamless interface for both residents and management staff to interact efficiently.
