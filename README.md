@@ -1,4 +1,4 @@
-#easTech
+# easTech
 An integrated Digital Residential Management System designed to simplify property administration, resident services, and staff workflows.
 
 ## 🚀 About the Project
